@@ -1,0 +1,35 @@
+[
+    {
+        "siteName": "建筑工地",
+        "checked": true,
+        "children": [
+            {
+                "lng": 114.75854873657227,
+                "lat": 34.88395954192469,
+                "name": "moumou1建筑公司",
+                "address":"xx3222地址",
+                "events":{}
+            },
+            {
+                "lng": 114.75854873657227,
+                "lat": 34.957010482554594,
+                "name": "moumou122建筑公司",
+                "address":"xx32地址",
+                "events":{}
+            }
+        ]
+    },
+    {
+        "checked": true,
+        "siteName": "木材厂",
+        "children": [
+            {
+                "lng": 114.8503875732219,
+                "lat":  34.8839595419246,
+                "name": "moumou2建筑公司",
+                "address":"xx3地址",
+                "events":{}
+            }
+        ]
+    }
+]
